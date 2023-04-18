@@ -1,4 +1,9 @@
 ### Hi there 👋
+In this document, you can find some information about me.
+
+I have always been interested in technology since my childhood. My aim was to become a software engineer, but I had to follow a different career path due to college exams. So I went to and graduated from the economics faculty.But pandemics and emerging socioeconomic developments changed my career plans. I decided to build a new career as a web developer.
+
+Nowadays, I'm learning HTML and CSS. I follow Jonas Schmedtmann's course on Udemy, which I recommend to everyone who is a new starter. In the forthcoming weeks, I'm going to elaborate on what I have learned about HTML and CSS. I can load some projects onto a repository. And then I'm going to start learning Javascript and React JS. My road is long and hard, but I believe that I can cross it by virtue of persistence and curiosity.
 
 <!--
 **ugurulukir/ugurulukir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
