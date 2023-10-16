@@ -1,9 +1,10 @@
 ### Hi there 👋
-In this document, you can find some information about me.
 
-I have always been interested in technology since my childhood. My aim was to become a software engineer, but I had to follow a different career path due to college exams. So I went to and graduated from the economics faculty.But pandemics and emerging socioeconomic developments changed my career plans. I decided to build a new career as a web developer.
+I have always been interested in technology since my childhood. My aim was to become a software engineer, but I had to follow a different career path due to academic reasons. In that time, I was not good at advanced math and physics, so I went to and graduated from the economics faculty. But pandemics and emerging socioeconomic and personal developments in my life changed my career plans. I drop out my master program and joined Air Forces as Lieutenant for a year compulsory military service. 
 
-Nowadays, I'm learning HTML and CSS. I follow Jonas Schmedtmann's course on Udemy, which I recommend to everyone who is a new starter. In the forthcoming weeks, I'm going to elaborate on what I have learned about HTML and CSS. I can load some projects onto a repository. And then I'm going to start learning Javascript and React JS. My road is long and hard, but I believe that I can cross it by virtue of persistence and curiosity.
+After army I noticed that I do not want to work at a position that related my bachelor’s degree. My experiences with recruitment specialists in job seeking process has been effective in this decision. I was a successful student in my department however, it had not fit for myself and personality and values in life. I do not want to hear anything about HR.
+
+Therefore, I decided to turn over a new leaf in my life and build a new career as a software developer. I know that my road is long and hard, but I believe that I can cross it by my virtue of persistence and curiosity. Never too late for anything. I want to be born from ashes like Phoenix.
 
 <!--
 **ugurulukir/ugurulukir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
